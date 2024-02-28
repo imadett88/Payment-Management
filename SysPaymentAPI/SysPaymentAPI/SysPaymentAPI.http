@@ -1,0 +1,6 @@
+@SysPaymentAPI_HostAddress = http://localhost:5272
+
+GET {{SysPaymentAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

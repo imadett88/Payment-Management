@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "r0G/kB0AqtzkOAcKmDkBWPhHRma+z9MVfOsOff2m6XI=",
+  "Source": "SysPaymentAPI",
+  "BasePath": "_content/SysPaymentAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

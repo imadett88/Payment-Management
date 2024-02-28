@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|c:\\users\\dell\\desktop\\projects\\syspaymentapi\\syspaymentapi\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|solutionrelative:syspaymentapi\\controllers\\paymentdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|c:\\users\\dell\\desktop\\projects\\syspaymentapi\\syspaymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|solutionrelative:syspaymentapi\\models\\paymentdetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|c:\\users\\dell\\desktop\\projects\\syspaymentapi\\syspaymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|solutionrelative:syspaymentapi\\models\\paymentdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|c:\\users\\dell\\desktop\\projects\\syspaymentapi\\syspaymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|solutionrelative:syspaymentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|c:\\users\\dell\\desktop\\projects\\syspaymentapi\\syspaymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B318D663-0E2A-4395-A6FE-5DFFF4FECE0D}|SysPaymentAPI\\SysPaymentAPI.csproj|solutionrelative:syspaymentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\Controllers\\PaymentDetailsController.cs",
+              "RelativeDocumentMoniker": "SysPaymentAPI\\Controllers\\PaymentDetailsController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\Controllers\\PaymentDetailsController.cs",
+              "RelativeToolTip": "SysPaymentAPI\\Controllers\\PaymentDetailsController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAC8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:34:31.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SysPaymentAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\appsettings.json",
+              "RelativeToolTip": "SysPaymentAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T12:07:24.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SysPaymentAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\Program.cs",
+              "RelativeToolTip": "SysPaymentAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:57:10.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentDetailContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeDocumentMoniker": "SysPaymentAPI\\Models\\PaymentDetailContext.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\Models\\PaymentDetailContext.cs",
+              "RelativeToolTip": "SysPaymentAPI\\Models\\PaymentDetailContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:46:15.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentDetail.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeDocumentMoniker": "SysPaymentAPI\\Models\\PaymentDetail.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\Projects\\SysPaymentAPI\\SysPaymentAPI\\Models\\PaymentDetail.cs",
+              "RelativeToolTip": "SysPaymentAPI\\Models\\PaymentDetail.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:30:27.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
